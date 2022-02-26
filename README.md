@@ -9,9 +9,9 @@ First, open up the file and change the stock_list variable to the ticker symobls
 
 ## Steps to automate 
 1. We need to change the file into an executable file first. To do this open up a text editor and input these lines of code 
-          **#!/bin/sh
-          **Python /Users/adamdion/GitHubProjects/stock_notifier_script.py
-          **neonphotography
+          #!/bin/sh
+          Python /Users/adamdion/GitHubProjects/stock_notifier_script.py
+          neonphotography 
     change the location to where you have the file stored.
 2. Copy this file path and open up your terminal and type out "chmod 755" then this file location. This will change the file into an executable
 3. Open up Mac Automator and select app.
